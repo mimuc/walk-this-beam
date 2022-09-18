@@ -7,6 +7,18 @@ _Impact of Different Balance Assistance Strategies and Height Exposure on Perfor
 [Dennis Dietz](http://www.medien.ifi.lmu.de/team/dennis.dietz/), [Carl Oechsner](http://www.medien.ifi.lmu.de/team/carl.oechsner/), [Changkun Ou](https://changkun.de), [Francesco Chiossi](um.informatik.uni-muenchen.de/personen/mitarbeiter/chiossi/index.html), [Fabio Sarto](https://scholar.google.com/citations?user=Qu12gxwAAAAJ), [Sven Mayer](https://sven-mayer.com/), and [Andreas Butz](http://butz.org)<br/>
 In Proceedings of the 28th ACM Symposium on Virtual Reality Software and Technology (VRST'22). ACM, November 29-December 1, 2022, Virtual/Tsukuba, Japan.
 
+## Dataset
+
+The collected raw dataset can be found in the [data](./data) folder with [descriptions](./data/README.md).
+
+## Simulated VR Scenarios
+
+TODO:
+
+## Data Analysis
+
+The [analysis](./analysis) folder contains scripts to reproduce _Section 3.3_ and _Section 4_.
+
 ## License
 
 Copyright &copy; 2022. [LMU Munich](https://lmu.de) [Media Informatics Group](https://www.medien.ifi.lmu.de/). All rights reserved.
