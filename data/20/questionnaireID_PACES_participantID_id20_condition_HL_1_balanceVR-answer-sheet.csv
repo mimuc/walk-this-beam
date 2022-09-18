@@ -1,0 +1,20 @@
+QuestionType;Question;QuestionID;Answer
+radio;enjoy it --- hate it;q1;1
+radio;I feel bored --- I feel interested;q2;6
+radio;I disliked it --- I liked it;q3;6
+radio;I find it pleasureable --- I find it unpleasurable;q4;2
+radio;I am very absorbed in this activity --- I am not at all absorbed in this activity;q5;2
+radio;It ’s no fun at all --- It ’s a lot of fun;q6;6
+radio;I find it energizing --- I find it tiring;q7;2
+radio;It makes me depressed --- It makes me happy;q8;6
+radio;It's very pleasent --- It's very unpleasent;q9;2
+radio;I feel good physically while doing it --- I feel bad physically while doing it;q10;2
+radio;It’s very invigorating (erfrischend, belebend) --- It’s not at all invigorating;q11;2
+radio;I am very frustrated by it --- I am not at all frustrated by it;q12;7
+radio;It’s very gratifying --- It’s not at all gratifying;q13;2
+radio;It’s very exhilarating --- It’s not at all exhilarating;q14;2
+radio;It’s not at all stimulating --- It’s very stimulating;q15;6
+radio;It gives me a strong sense of accomplishment --- It does't give me any sense of accomplishment;q16;1
+radio;It’s very refreshing --- It’s not at all refreshing;q17;2
+radio;I felt as though I would rather be doing something else --- I felt as though there was nothing else I would rather be doing;q18;6
+
